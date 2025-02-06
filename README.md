@@ -1,2 +1,2 @@
 # git-and-github
-introduction to git and git hub
+introduction to git and git hub hello
